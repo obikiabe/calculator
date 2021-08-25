@@ -1,0 +1,10 @@
+.menu li{
+    display: inline;
+    padding: 10px;
+    margin: 50px;
+    font-size: 40px;
+}
+
+header{ 
+    background-color: bisque;
+}
